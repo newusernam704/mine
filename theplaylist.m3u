@@ -143,7 +143,3 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="ThisOldHouse.us@SD" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="Series",This Old House (1080p)
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC News HD
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AR: OSN MEZZE 4k"  group-title="AR: OSN",AR: OSN MEZZE 4k
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/119331
